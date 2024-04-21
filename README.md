@@ -18,16 +18,11 @@ Objetivos:
 ![trofeu (1)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/1c217b9f-fbc2-42e0-8b34-d499206f9b5e)
 
 
-
-
-
-
-
-
-
 ## Dash de Resultados
 
-![image](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/35461671-234f-43db-9c25-173538800148)
+![Dash (2)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/0583e0e1-ba9d-4dcf-b6d4-b9aff031a8be)
+
+
 
 ## Minhas Skills
 
