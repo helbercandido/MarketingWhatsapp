@@ -12,6 +12,10 @@ Objetivos:
 - 🤖 Automatizar processos de atendimento via CRM
 - ✨ Sugerir e implentar melhorias de posicionamento e campanhas
 
+## Dash de Resultados
+
+![image](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/35461671-234f-43db-9c25-173538800148)
+
 ## Minhas Skills
 
 **Aplicações e dados**
@@ -118,4 +122,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/35461671-234f-43db-9c25-173538800148)
+
