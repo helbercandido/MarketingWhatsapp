@@ -74,7 +74,7 @@ Objetivos:
 
 ## Onde me encontrar
 
-[![Whatsapp](https://img.shields.io/badge/-helbercandido-teal?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5511980140310)](https://wa.me/5511980140310)
+[![Whatsapp](https://img.shields.io/badge/-Helber-teal?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5511980140310)](https://wa.me/5511980140310)
 [![Linkedin](https://img.shields.io/badge/-helbercandido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helbercandido)](https://www.linkedin.com/in/helbercandido)
 [![Gmail Badge](https://img.shields.io/badge/-helber.santos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:helber.santos@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/helbercandido)
