@@ -11,7 +11,7 @@ Objetivos:
 - 💹 Criar relatório para acompanhamento de resultados
 - 🤖 Automatizar processos de atendimento via CRM
 - ✨ Sugerir e implentar melhorias de posicionamento e campanhas
-- 
+  
  ## Cliente Campeã de Vendas com a campanha
  
 ![Campeã Sabrina (2)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/95a8cbbf-59dd-419a-b7b6-50cf52970b7a)
@@ -31,13 +31,8 @@ Objetivos:
 
 ![Meta](https://img.shields.io/badge/Meta-blue)
 ![Google](https://img.shields.io/badge/Google-red)
-![Google](https://img.shields.io/badge/Data_Studio-Green)
-
-
-
-
-
-
+![Data_Studio](https://img.shields.io/badge/Data_Studio-Green)
+![Data_Studio](https://img.shields.io/badge/CRM-violet)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
