@@ -74,6 +74,7 @@ Objetivos:
 
 ## Onde me encontrar
 
+[![Whatsapp](https://img.shields.io/badge/-helbercandido-teal?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5511980140310)](https://wa.me/5511980140310)
 [![Linkedin](https://img.shields.io/badge/-helbercandido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helbercandido)](https://www.linkedin.com/in/helbercandido)
 [![Gmail Badge](https://img.shields.io/badge/-helber.santos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:helber.santos@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/helbercandido)
@@ -81,12 +82,16 @@ Objetivos:
 <!--
 <h1>Connect With me:</h3>
 <p>
+<a href="https://wa.me/5511980140310">
+<img align="left" alt="ícone whatsapp" width="22px" src="https://img.shields.io/badge/Whatsapp-Teal">
+</a>
+
 <a href="https://www.instagram.com/euhelbercandido">
   <img align="left" alt="ícone do istagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 <a href="https://www.linkedin.com/in/helbercandido">
   <img align="left" alt="ícone linkedim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg">
-</a>
+  </a>
 </p>
 -->
 
