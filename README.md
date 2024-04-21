@@ -12,6 +12,11 @@ Objetivos:
 - 🤖 Automatizar processos de atendimento via CRM
 - ✨ Sugerir e implentar melhorias de posicionamento e campanhas
 
+![Campeã Sabrina (2)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/95a8cbbf-59dd-419a-b7b6-50cf52970b7a)
+
+
+
+
 ## Dash de Resultados
 
 ![image](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/35461671-234f-43db-9c25-173538800148)
