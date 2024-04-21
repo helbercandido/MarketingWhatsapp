@@ -11,8 +11,16 @@ Objetivos:
 - 💹 Criar relatório para acompanhamento de resultados
 - 🤖 Automatizar processos de atendimento via CRM
 - ✨ Sugerir e implentar melhorias de posicionamento e campanhas
-
+- 
+ ## Cliente Campeã de Vendas com a campanha
+ 
 ![Campeã Sabrina (2)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/95a8cbbf-59dd-419a-b7b6-50cf52970b7a)
+![trofeu (1)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/1c217b9f-fbc2-42e0-8b34-d499206f9b5e)
+
+
+
+
+
 
 
 
