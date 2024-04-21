@@ -17,12 +17,9 @@ Objetivos:
 ![Campeã Sabrina (2)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/95a8cbbf-59dd-419a-b7b6-50cf52970b7a)
 ![trofeu (1)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/1c217b9f-fbc2-42e0-8b34-d499206f9b5e)
 
-
 ## Dash de Resultados
 
 ![Dash (2)](https://github.com/helbercandido/MarketingWhatsapp/assets/157776375/0583e0e1-ba9d-4dcf-b6d4-b9aff031a8be)
-
-
 
 ## Minhas Skills
 
@@ -31,8 +28,16 @@ Objetivos:
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)-->
+
 ![Meta](https://img.shields.io/badge/Meta-blue)
 ![Google](https://img.shields.io/badge/Google-red)
+![Google](https://img.shields.io/badge/Data_Studio-Green)
+
+
+
+
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
