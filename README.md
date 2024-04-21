@@ -1,4 +1,4 @@
-# Marketing - Camanha de Mensagens Whatsapp
+# Marketing - Campanha de Mensagens Whatsapp
 
 ## Sobre
 
